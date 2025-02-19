@@ -1,6 +1,6 @@
 # Hi there, I'm Joy Ndung'u! 👋  
 
-![Web Developer Banner](https://via.placeholder.com/1000x200?text=Your+Web+Developer+Banner+Image) 
+![Web Developer Banner](https://github.com/JoyNdungu/my-first-trial/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png) 
  
 
 Welcome to my GitHub profile! I'm a **passionate Web Developer** with a love for creating dynamic, efficient, and user-friendly web applications. I specialize in both **front-end** and **back-end development**, and I'm constantly sharpening my skills in modern web technologies.  
