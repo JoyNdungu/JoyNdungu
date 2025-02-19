@@ -1,17 +1,68 @@
-<h1 align="center">Hi 👋, I'm Joy Ndung'u</h1>
-<h3 align="center">A passionate web developer from Kenya</h3>
+# Hi there, I'm Joy Ndung'u! 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyndungu&label=Profile%20views&color=0e75b6&style=flat" alt="joyndungu" /> </p>
+![Web Developer Banner](https://via.placeholder.com/1000x200?text=Your+Web+Developer+Banner+Image) 
+ 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joyndungu" alt="joyndungu" /></a> </p>
+Welcome to my GitHub profile! I'm a **passionate Web Developer** with a love for creating dynamic, efficient, and user-friendly web applications. I specialize in both **front-end** and **back-end development**, and I'm constantly sharpening my skills in modern web technologies.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyndungu&show_icons=true&locale=en" alt="joyndungu" /></p>
+🔹 **Name:** Joy Ndung'u  
+🔹 **Role:** Web Developer | BBIT Student  
+🔹 **Passionate About:** Building innovative web solutions, learning new technologies, and solving complex problems with code.  
+🔹 **Hobbies:** Coding, learning React, and exploring new development tools.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyndungu&" alt="joyndungu" /></p>
+---
+
+## 💻 Tech Stack  
+
+Here’s a breakdown of my technical skills:  
+
+- **Languages:**  
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)  
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)  
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
+
+- **Front-End Development:**  
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)  
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
+
+- **Back-End & Databases:**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
+
+---
+
+## 🌟 GitHub Stats  
+
+![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyNdungu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu&layout=compact&theme=radical)  
+
+---
+
+## 📚 Projects  
+
+Here are some of my favorite projects:  
+
+1. **Task Manager App:** A simple task management app built using React, JavaScript, and CSS.  
+2. **Bomas Residential Service Hub:** A web app that provides information on services available in the Bomas area.  
+3. **Portfolio Website:** A responsive portfolio site to showcase my skills and projects (currently in progress!).  
+
+🔗 **[View all my projects here](https://github.com/JoyNdungu?tab=repositories)**  
+
+---
+
+## 📩 Connect with Me  
+
+If you’d like to collaborate on a project or just say hi, feel free to reach out!  
+
+- **Email:** [joytery1@gmail.com](mailto:your-email@example.com)  
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)  
+
+---
+
+Thank you for visiting my profile! 😊  
