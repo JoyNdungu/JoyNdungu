@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a **passionate Web Developer** with a love for
 
 🔹 **Name:** Joy Ndung'u  
 🔹 **Role:** Web Developer | BBIT Student | MERN Stack Enthusiast 
+
 🔹 **Passionate About:** Building innovative web solutions, learning new technologies, and solving complex problems with code.  
 🔹 **Hobbies:** Coding, learning React, and exploring new development tools.  
 
