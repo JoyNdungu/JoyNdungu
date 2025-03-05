@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **passionate Web Developer** with a love for
 ## 🚀 About Me  
 
 🔹 **Name:** Joy Ndung'u  
-🔹 **Role:** Web Developer | BBIT Student  
+🔹 **Role:** Web Developer | BBIT Student | MERN Stack Enthusiast 
 🔹 **Passionate About:** Building innovative web solutions, learning new technologies, and solving complex problems with code.  
 🔹 **Hobbies:** Coding, learning React, and exploring new development tools.  
 
@@ -50,7 +50,8 @@ Here are some of my favorite projects:
 
 1. **Task Manager App:** A simple task management app built using React, JavaScript, and CSS.  
 2. **Bomas Residential Service Hub:** A web app that provides information on services available in the Bomas area.  
-3. **Portfolio Website:** A responsive portfolio site to showcase my skills and projects (currently in progress!).  
+3. **Portfolio Website:** A responsive portfolio site to showcase my skills and projects (currently in progress!).
+4. **Expense Tracker** It helps you track all the expenses you incure as well as the date, you also get the toatal expenses you have incurred.
 
 🔗 **[View all my projects here](https://github.com/JoyNdungu?tab=repositories)**  
 
