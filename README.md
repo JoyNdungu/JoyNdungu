@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **passionate Web Developer** with a love for
 ## 🚀 About Me  
 
 🔹 **Name:** Joy Ndung'u  
-🔹 **Role:** Web Developer | BBIT Student | MERN Stack Enthusiast 
+🔹 **Role:** Web Developer | BBIT Student | MERN Stack Enthusiast |Machine Learning Enthusiast 
 
 🔹 **Passionate About:** Building innovative web solutions, learning new technologies, and solving complex problems with code.  
 🔹 **Hobbies:** Coding, learning React, and exploring new development tools.  
@@ -25,7 +25,8 @@ Here’s a breakdown of my technical skills:
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)  
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)  
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+  
 
 - **Front-End Development:**  
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)  
@@ -34,7 +35,8 @@ Here’s a breakdown of my technical skills:
 
 - **Back-End & Databases:**  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+  ![Pytho] 
 
 ---
 
@@ -43,6 +45,7 @@ Here’s a breakdown of my technical skills:
 ![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyNdungu&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu&layout=compact&theme=radical)  
 
+[![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyNdungu)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📚 Projects  
