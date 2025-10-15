@@ -63,8 +63,8 @@ Here are some of my favorite projects:
 
 If you’d like to collaborate on a project or just say hi, feel free to reach out!  
 
-- **Email:** [joytery1@gmail.com](mailto:your-email@example.com)  
-- **LinkedIn:** [(https://www.linkedin.com/in/ndung-u-joy-gathoni-5682aa355/](https://linkedin.com/in/your-linkedin-profile)  
+- **Email:** [joytery1@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/ndung-u-joy-gathoni-5682aa355/]
 
 ---
 
