@@ -44,8 +44,6 @@ Here’s a breakdown of my technical skills:
 
 ![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyNdungu&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu&layout=compact&theme=radical)  
-
-[![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyNdungu)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📚 Projects  
