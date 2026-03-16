@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Joy Ndung'u's%20Digital%20Universe&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=20&descAlignY=58&descColor=A9FEF7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=JoyNdungu's%20Digital%20Universe&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=20&descAlignY=58&descColor=A9FEF7" />
 
 </div>
 
@@ -83,6 +83,7 @@ Features:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoyNdungu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=FF6B6B" alt="GitHub Stats" height="175"/>
   &nbsp;
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7" alt="Top Languages" height="175"/>
 </div>
 
@@ -100,19 +101,13 @@ Features:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JoyNdungu\&theme=tokyonight)
 
----
-
-# 🎯 2026 Goals
-
-* Build impactful tech projects
-  
-* Master full stack development
-  
-* Launch my personal portfolio
-  
-* Contribute to open source
 
 ---
+
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 
 # 🌍 Connect With Me
 
