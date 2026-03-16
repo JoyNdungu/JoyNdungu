@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Joy Ndung'u's%20Digital%20Universe&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=20&descAlignY=58&descColor=A9FEF7" />
+
 </div>
 
 💻 **Aspiring Full-Stack Developer** | 🎓 **BBIT Student** | 🚀 **Tech Builder**
@@ -92,8 +93,6 @@ Features:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyNdungu&bg_color=0D1117&color=A9FEF7&line=4FC3F7&point=FF6B6B&area=true&hide_border=true&area_color=1a1a2e" alt="GitHub Activity Graph" />
 </div>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu\&layout=compact\&theme=tokyonight)
 
 ---
 
