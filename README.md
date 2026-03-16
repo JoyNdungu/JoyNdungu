@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Joy Ndung'u
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Joy Ndung'u's%20Digital%20Universe&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=20&descAlignY=58&descColor=A9FEF7" />
+</div>
 
 💻 **Aspiring Full-Stack Developer** | 🎓 **BBIT Student** | 🚀 **Tech Builder**
 
@@ -77,31 +79,48 @@ Features:
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyNdungu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=FF6B6B" alt="GitHub Stats" height="175"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7" alt="Top Languages" height="175"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyNdungu&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyNdungu&bg_color=0D1117&color=A9FEF7&line=4FC3F7&point=FF6B6B&area=true&hide_border=true&area_color=1a1a2e" alt="GitHub Activity Graph" />
+</div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JoyNdungu\&theme=tokyonight)
 
 ---
 
 # 🎯 2026 Goals
 
 * Build impactful tech projects
+  
 * Master full stack development
+  
 * Launch my personal portfolio
+  
 * Contribute to open source
 
 ---
 
 # 🌍 Connect With Me
 
-💼 LinkedIn: [Add your LinkedIn here](https://www.linkedin.com/in/ndung-u-joy-gathoni-5682aa355/)
+💼 LinkedIn: [Linked In](https://www.linkedin.com/in/ndung-u-joy-gathoni-5682aa355/)
+
 🌐 Portfolio: Coming Soon
+
 📧 Email: tessagrandeur@gmail.com
 
 ---
