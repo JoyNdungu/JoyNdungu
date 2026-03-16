@@ -1,71 +1,111 @@
-# Hi there, I'm Joy Ndung'u! 👋  
+# 👋 Hi, I'm Joy Ndung'u
 
-![Web Developer Banner](https://github.com/JoyNdungu/my-first-trial/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png) 
- 
+💻 **Aspiring Full-Stack Developer** | 🎓 **BBIT Student** | 🚀 **Tech Builder**
 
-Welcome to my GitHub profile! I'm a **passionate Web Developer** with a love for creating dynamic, efficient, and user-friendly web applications. I specialize in both **front-end** and **back-end development**, and I'm constantly sharpening my skills in modern web technologies.  
-
----
-
-## 🚀 About Me  
-
-🔹 **Name:** Joy Ndung'u  
-🔹 **Role:** Web Developer | BBIT Student | MERN Stack Enthusiast |Machine Learning Enthusiast 
-
-🔹 **Passionate About:** Building innovative web solutions, learning new technologies, and solving complex problems with code.  
-🔹 **Hobbies:** Coding, learning React, and exploring new development tools.  
+I love building technology that solves real-world problems.
+Currently growing my skills in **Full Stack Development, APIs, and AI-powered tools** while working on projects that create **real social impact**.
 
 ---
 
-## 💻 Tech Stack  
+# 🌱 Currently Learning
 
-Here’s a breakdown of my technical skills:  
-
-- **Languages:**  
-  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)  
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-  
-
-- **Front-End Development:**  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)  
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
-
-- **Back-End & Databases:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-  ![Pytho] 
+⚛️ React
+🎨 Tailwind CSS
+🌐 APIs
+🗄️ MongoDB
+⚙️ Backend Development with Node.js
 
 ---
 
-## 🌟 GitHub Stats  
+# 🛠 Tech Stack
 
-![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyNdungu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu&layout=compact&theme=radical)  
----
+### Frontend
 
-## 📚 Projects  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
 
-Here are some of my favorite projects:  
+### Backend
 
-1. **Task Manager App:** A simple task management app built using React, JavaScript, and CSS.  
-2. **Bomas Residential Service Hub:** A web app that provides information on services available in the Bomas area.  
-3. **Portfolio Website:** A responsive portfolio site to showcase my skills and projects (currently in progress!).
-4. **Expense Tracker** It helps you track all the expenses you incure as well as the date, you also get the toatal expenses you have incurred.
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
 
-🔗 **[View all my projects here](https://github.com/JoyNdungu?tab=repositories)**  
+### Database
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 
-## 📩 Connect with Me  
+### Tools
 
-If you’d like to collaborate on a project or just say hi, feel free to reach out!  
-
-- **Email:** [joytery1@gmail.com]  
-- **LinkedIn:** [https://www.linkedin.com/in/ndung-u-joy-gathoni-5682aa355/]
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
 
 ---
 
-Thank you for visiting my profile! 😊  
+# 🚀 Featured Projects
+
+## 🎨 RangiCraft
+
+A web app that helps developers generate beautiful color themes for their applications based on the type of project they are building.
+
+✨ Built with **React + Tailwind**
+
+---
+
+## 🧠 MoyoCheck
+
+A mental health project designed to help university students understand and track their emotional wellbeing.
+
+Goal: Use technology to help uncover **hidden emotional struggles among students.**
+
+---
+
+## ⚡ Boresha Power
+
+Smart energy monitoring system built during a hackathon.
+
+Features:
+
+* Tracks appliance energy usage
+* Detects excessive consumption
+* Sends **SMS alerts using Africa's Talking API**
+
+🏆 **Hackathon Winner**
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+
+---
+
+# 🎯 2026 Goals
+
+* Build impactful tech projects
+* Master full stack development
+* Launch my personal portfolio
+* Contribute to open source
+
+---
+
+# 🌍 Connect With Me
+
+💼 LinkedIn: [Add your LinkedIn here](https://www.linkedin.com/in/ndung-u-joy-gathoni-5682aa355/)
+🌐 Portfolio: Coming Soon
+📧 Email: tessagrandeur@gmail.com
+
+---
+
+# ⚡ Fun Fact
+
+🎹 I can sometimes guess the **notes of songs by ear on the piano.**
