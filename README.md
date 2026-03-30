@@ -15,7 +15,7 @@
 <div align="center">
 
 ```
-  ✦  BBIT Student  ·  Hackathon Winner  ·  Open to Collab  ✦
+    BBIT Student  ·  Hackathon Winner  ·  Open to Collab 
 ```
 
 </div>
