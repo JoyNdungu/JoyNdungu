@@ -6,37 +6,46 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=A9FEF7&center=true&vCenter=true&width=520&lines=Building+tech+that+solves+real+problems.;Full-Stack+%7C+APIs+%7C+AI-powered+tools.;Social+impact%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=A9FEF7&center=true&vCenter=true&width=560&lines=Building+tech+that+solves+real+problems.;Full-Stack+%7C+APIs+%7C+AI-powered+tools.;Hackathon+winner+%F0%9F%8F%86+%7C+Open+to+collabs.;Social+impact%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
 <div align="center">
 
-```
-    BBIT Student  ·  Hackathon Winner  ·  Open to Collab 
-```
+![Profile views](https://komarev.com/ghpvc/?username=JoyNdungu&color=A9FEF7&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742694c6f7448323636306235644646586f68654f6141556f6f4172734c6766623335504f645f576f727843696c6e6703700cf5d266be9e1f875f6a08e0ef9ec518e23665e" />
+<img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742694c6f7448323636306235644646586f68654f6141556f6f4172734c6766623335504f645f576f727843696c6e6703700cf5d266be9e1f875f6a08e0ef9ec518e23665e" />
 
 ### 👩🏾‍💻 About Me
 
-I'm a **Full-Stack Developer** and **BBIT student** from **Kenya** 🇰🇪 building technology with purpose.
+I'm a **Full-Stack Developer** and **BBIT student** from **Kenya** 🇰🇪 — building technology with purpose and people at the center.
 
 My work sits at the intersection of **beautiful UIs**, **robust backends**, and **real social impact** — from mental health tools for students to smart energy monitoring systems.
 
-- 🌱 Currently deep in: **React · Node.js · MongoDB · REST APIs**
-- 🏆 Hackathon Winner — **Boresha Power** (Africa's Talking API)
-- 🤝 Open to collaborating on impactful builds
-- 🎹 Secret skill: identifying piano notes by ear
-- 📬 **tessagrandeur@gmail.com**
+| | |
+|---|---|
+| 🌱 **Currently** | Deep in React · Node.js · MongoDB · REST APIs |
+| 🏆 **Hackathon Winner** | Boresha Power — Africa's Talking API |
+| 🤝 **Open to** | Collaborating on impactful, purposeful builds |
+| 🌍 **Belief** | The best tech is invisible, kind, and built for everyone |
+| 🎹 **Secret skill** | Identifying piano notes by ear |
+| 📬 **Email** | tessagrandeur@gmail.com |
 
 <br clear="right"/>
+
+---
+
+### 🔨 Currently Building
+
+```
+🟢  RangiCraft     — Color theme generator for developers            [in progress]
+🔵  MoyoCheck      — Student mental health tracker                   [refining UX]
+🟡  Learning       — AI integration + advanced React patterns        [ongoing]
+```
 
 ---
 
@@ -51,9 +60,12 @@ My work sits at the intersection of **beautiful UIs**, **robust backends**, and 
 
 **Color Theme Generator**
 
-Generates beautiful, project-specific color palettes for developers.
+Generates beautiful, project-specific color palettes for developers. No more starting from scratch.
 
 `React` `Tailwind CSS` `Design Tools`
+
+[![GitHub](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/JoyNdungu)
+[![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square)](https://github.com/JoyNdungu)
 
 </td>
 <td align="center" width="31%">
@@ -62,9 +74,11 @@ Generates beautiful, project-specific color palettes for developers.
 
 **Student Mental Health**
 
-Helps university students track and understand their emotional wellbeing.
+Helps university students track, understand, and reflect on their emotional wellbeing.
 
 `React` `Social Impact` `UX Research`
+
+[![GitHub](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/JoyNdungu)
 
 </td>
 <td align="center" width="31%">
@@ -73,9 +87,11 @@ Helps university students track and understand their emotional wellbeing.
 
 **Smart Energy Monitor** 🏆
 
-Tracks appliance usage, detects spikes, sends live SMS alerts.
+Tracks appliance usage, detects power spikes, and sends live SMS alerts to users.
 
 `Node.js` `Africa's Talking API`
+
+[![GitHub](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/JoyNdungu)
 
 </td>
 </tr>
@@ -100,6 +116,7 @@ Tracks appliance usage, detects spikes, sends live SMS alerts.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Tools**
 
@@ -139,6 +156,16 @@ Tracks appliance usage, detects spikes, sends live SMS alerts.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyNdungu&bg_color=0D1117&color=A9FEF7&line=4FC3F7&point=FF6B6B&area=true&hide_border=true&area_color=0D2137" />
 </div>
+
+---
+
+### 💭 A Bit More
+
+> I believe the best tech is **invisible and kind** — it just works, for everyone.
+>
+> I build tools that lean into accessibility, emotional intelligence, and real utility for African contexts. When I'm not pushing commits, I'm at a piano picking out notes by ear — or deep in a rabbit hole about human-centered design.
+>
+> Always open to building something meaningful together.
 
 ---
 
