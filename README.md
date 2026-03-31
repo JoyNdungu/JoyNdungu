@@ -1,147 +1,166 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Joy%20Ndungu&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=40&fontAlignX=50&desc=Full-Stack%20Developer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA&descSize=18&descAlignY=60&descColor=A9FEF7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Joy%20Ndungu%20✨&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=40&fontAlignX=50&desc=Full-Stack%20Developer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA%20%7C%20she%2Fher&descSize=17&descAlignY=62&descColor=FFD6F5" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1000&color=A9FEF7&center=true&vCenter=true&width=560&lines=Building+tech+that+solves+real+problems.;Full-Stack+%7C+APIs+%7C+AI-powered+tools.;Hackathon+winner+%F0%9F%8F%86+%7C+Open+to+collabs.;Social+impact%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=16&pause=1000&color=FF85C8&center=true&vCenter=true&width=580&lines=crafting+beautiful+UIs+%26+powerful+backends+%F0%9F%92%85;hackathon+winner+%F0%9F%8F%86+%7C+open+to+collabs+%F0%9F%A4%9D;building+tech+with+purpose%2C+from+Kenya+%F0%9F%8C%8D%E2%9C%A8;social+impact%2C+one+commit+at+a+time+%F0%9F%92%96)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=JoyNdungu&color=A9FEF7&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=JoyNdungu&color=FF85C8&style=flat-square&label=✨+visitors)
+
+</div>
+
+<br/>
+
+---
+
+## 🌸 `whoami`
+
+<img align="right" alt="Coding girl" width="280" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742694c6f7448323636306235644646586f68654f6141556f6f4172734c6766623335504f645f576f727843696c6e6703700cf5d266be9e1f875f6a08e0ef9ec518e23665e" />
+
+<br/>
+
+hey hey! i'm **Joy** 💗 — a full-stack dev & BBIT student from 🇰🇪 Kenya who believes code can genuinely change lives.
+
+i build things that are **beautiful on the outside** and **solid on the inside** — think: mental health apps, smart energy monitors, and color tools that just *get* you.
+
+```js
+const joy = {
+  role:       "Full-Stack Developer 💻",
+  location:   "Kenya 🌍",
+  learning:   ["React", "Django", "MongoDB", "Node.js", "AI 🤖"],
+  superpower: "identifying piano notes by ear 🎹",
+  vibe:       "build it beautiful, make it matter 💖"
+}
+```
+
+<br clear="right"/>
+
+<br/>
+
+| 💡 | |
+|:---:|:---|
+| 🌱 | currently deep in **React · Django · MongoDB · Node.js** |
+| 🏆 | hackathon winner — **Boresha Power** x Africa's Talking API |
+| 🤝 | open to collabs that make a **real difference** |
+| 🎹 | secret skill: identifying piano notes by ear |
+| 💌 | tessagrandeur@gmail.com |
+
+---
+
+## 🔮 currently building
+
+<div align="center">
+
+| status | project | what it does |
+|:---:|:---|:---|
+| 🟢 `live` | **RangiCraft** | color theme generator for devs who love pretty palettes 🎨 |
+| 🔵 `building` | **MoyoCheck** | emotional wellness tracker for uni students 💙 |
+| 🟡 `learning` | **AI tooling** | levelling up with AI integration + advanced React ✨ |
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742694c6f7448323636306235644646586f68654f6141556f6f4172734c6766623335504f645f576f727843696c6e6703700cf5d266be9e1f875f6a08e0ef9ec518e23665e" />
-
-### 👩🏾‍💻 About Me
-
-I'm a **Full-Stack Developer** and **BBIT student** from **Kenya** 🇰🇪 — building technology with purpose and people at the center.
-
-My work sits at the intersection of **beautiful UIs**, **robust backends**, and **real social impact** — from mental health tools for students to smart energy monitoring systems.
-
-| | |
-|---|---|
-| 🌱 **Currently** | Deep in React · Node.js · MongoDB · REST APIs |
-| 🏆 **Hackathon Winner** | Boresha Power — Africa's Talking API |
-| 🤝 **Open to** | Collaborating on impactful, purposeful builds |
-| 🌍 **Belief** | The best tech is invisible, kind, and built for everyone |
-| 🎹 **Secret skill** | Identifying piano notes by ear |
-| 📬 **Email** | tessagrandeur@gmail.com |
-
-<br clear="right"/>
-
----
-
-### 🔨 Currently Building
-
-```
-🟢  RangiCraft     — Color theme generator for developers            [in progress]
-🔵  MoyoCheck      — Student mental health tracker                   [refining UX]
-🟡  Learning       — AI integration + advanced React patterns        [ongoing]
-```
-
----
-
-### 🚀 Featured Projects
+## 💅 featured projects
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="31%">
 
-<img src="https://img.shields.io/badge/001-RangiCraft-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+<td align="center" width="32%">
+
+![RangiCraft](https://img.shields.io/badge/✨_RangiCraft-FF85C8?style=for-the-badge&labelColor=2d0a1e)
 
 **Color Theme Generator**
 
-Generates beautiful, project-specific color palettes for developers. No more starting from scratch.
+generates stunning, project-specific palettes so you never stare at a blank canvas again 🎨
 
-`React` `Tailwind CSS` `Design Tools`
+![React](https://img.shields.io/badge/React-FFB3DE?style=flat-square&logo=react&logoColor=2d0a1e)
+![Tailwind](https://img.shields.io/badge/Tailwind-D4A8FF?style=flat-square&logo=tailwind-css&logoColor=2d0a1e)
 
-[![GitHub](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/JoyNdungu)
-[![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=flat-square)](https://github.com/JoyNdungu)
+[![code](https://img.shields.io/badge/code-FF85C8?style=flat-square&logo=github&logoColor=white)](https://github.com/JoyNdungu)
+[![demo](https://img.shields.io/badge/demo-D4A8FF?style=flat-square)](https://github.com/JoyNdungu)
 
 </td>
-<td align="center" width="31%">
 
-<img src="https://img.shields.io/badge/002-MoyoCheck-4FC3F7?style=for-the-badge&labelColor=0D1117"/>
+<td align="center" width="32%">
+
+![MoyoCheck](https://img.shields.io/badge/💙_MoyoCheck-A78BFA?style=for-the-badge&labelColor=0d0a2e)
 
 **Student Mental Health**
 
-Helps university students track, understand, and reflect on their emotional wellbeing.
+helps uni students track + reflect on their emotional wellbeing — because mental health matters 💜
 
-`React` `Social Impact` `UX Research`
+![React](https://img.shields.io/badge/React-FFB3DE?style=flat-square&logo=react&logoColor=2d0a1e)
+![UX](https://img.shields.io/badge/UX_Research-D4A8FF?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/JoyNdungu)
+[![code](https://img.shields.io/badge/code-A78BFA?style=flat-square&logo=github&logoColor=white)](https://github.com/JoyNdungu)
 
 </td>
-<td align="center" width="31%">
 
-<img src="https://img.shields.io/badge/003-Boresha_Power-A9FEF7?style=for-the-badge&labelColor=0D1117"/>
+<td align="center" width="32%">
+
+![Boresha](https://img.shields.io/badge/⚡_Boresha_Power-FFD6A5?style=for-the-badge&labelColor=1a0d00)
 
 **Smart Energy Monitor** 🏆
 
-Tracks appliance usage, detects power spikes, and sends live SMS alerts to users.
+detects power spikes & sends live SMS alerts — won at a national hackathon 🥇
 
-`Node.js` `Africa's Talking API`
+![Node](https://img.shields.io/badge/Node.js-FFB3DE?style=flat-square&logo=nodedotjs&logoColor=2d0a1e)
+![AT API](https://img.shields.io/badge/Africa's_Talking-D4A8FF?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/JoyNdungu)
+[![code](https://img.shields.io/badge/code-FFD6A5?style=flat-square&logo=github&logoColor=1a0d00)](https://github.com/JoyNdungu)
 
 </td>
+
 </tr>
 </table>
 </div>
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ my toolkit
 
 <div align="center">
 
-**Frontend**
+**✨ frontend magic**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-FF85C8?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB3DE?style=for-the-badge&logo=javascript&logoColor=2d0a1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-D4A8FF?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-C084FC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & Database**
+**🔧 backend power**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF85C8?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-A78BFA?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFB3DE?style=for-the-badge&logo=mongodb&logoColor=2d0a1e)
+![REST APIs](https://img.shields.io/badge/REST_APIs-D4A8FF?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Tools**
+**🎀 tools i love**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF85C8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-D4A8FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFB3DE?style=for-the-badge&logo=figma&logoColor=2d0a1e)
 
 </div>
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 currently levelling up
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React_Advanced-7F77DD?style=for-the-badge&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/Django-534AB7?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7F77DD?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-534AB7?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-7F77DD?style=for-the-badge&logo=fastapi&logoColor=white)
-![AI Integration](https://img.shields.io/badge/AI_Integration-534AB7?style=for-the-badge&logo=openai&logoColor=white)
-
-| Skill | Progress | Level |
-|:---|:---|:---:|
+| 💜 skill | progress | |
+|:---|:---:|:---:|
 | ⚛️ **React Advanced** — hooks, performance, patterns | `████████░░` | 80% |
 | 🐍 **Django** — Python web framework | `████░░░░░░` | 42% |
 | 🗄️ **MongoDB** — NoSQL & data modeling | `██████░░░░` | 60% |
@@ -153,58 +172,61 @@ Tracks appliance usage, detects power spikes, and sends live SMS alerts to users
 
 ---
 
-### 📊 GitHub Stats
+## 📊 github wrapped 💜
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyNdungu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=FF6B6B&text_color=C9D1D9" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyNdungu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0a2e&title_color=FF85C8&icon_color=D4A8FF&text_color=FFD6F5" height="175"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu&layout=compact&theme=radical&hide_border=true&bg_color=1a0a2e&title_color=FF85C8&text_color=FFD6F5" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyNdungu&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=C9D1D9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyNdungu&theme=radical&hide_border=true&background=1a0a2e&ring=FF85C8&fire=D4A8FF&currStreakLabel=FF85C8&sideLabels=FFD6F5&dates=C084FC&stroke=FF85C8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyNdungu&bg_color=0D1117&color=A9FEF7&line=4FC3F7&point=FF6B6B&area=true&hide_border=true&area_color=0D2137" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyNdungu&bg_color=1a0a2e&color=FF85C8&line=D4A8FF&point=FFB3DE&area=true&hide_border=true&area_color=2d1040" />
 </div>
 
 ---
 
-### 💭 A Bit More
+## 💌 a little note from me
 
-> I believe the best tech is **invisible and kind** — it just works, for everyone.
+<div align="center">
+
+> *"i believe the best tech is **invisible, kind, and built for everyone** 💗*
 >
-> I build tools that lean into accessibility, emotional intelligence, and real utility for African contexts. When I'm not pushing commits, I'm at a piano picking out notes by ear — or deep in a rabbit hole about human-centered design.
+> *i build for accessibility, emotional intelligence, and real-world impact —*
+> *especially for African contexts that are often overlooked.*
 >
-> Always open to building something meaningful together.
+> *when i'm not shipping code, i'm at the piano, picking notes by ear* 🎹"*
+
+</div>
 
 ---
 
-### 🌍 Connect
+## 🌸 let's connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndung-u-joy-gathoni-5682aa355/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tessagrandeur@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-555555?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF85C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndung-u-joy-gathoni-5682aa355/)
+[![Email](https://img.shields.io/badge/Gmail-D4A8FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tessagrandeur@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio_✨-FFB3DE?style=for-the-badge&logo=About.me&logoColor=2d0a1e)](#)
+
+<br/>
+
+*always down to build something meaningful together* 💖
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 <br/>
 
 <div align="center">
-
-> *"I can sometimes identify piano notes by ear — tech by day, keys by night."* 🎹
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Joyfully%20Built%20in%20Kenya&fontSize=18&fontColor=A9FEF7&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&text=made+with+%F0%9F%92%96+from+Kenya&fontSize=20&fontColor=FFD6F5&fontAlignY=65" />
 </div>
