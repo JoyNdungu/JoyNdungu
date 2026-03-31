@@ -133,9 +133,21 @@ Tracks appliance usage, detects power spikes, and sends live SMS alerts to users
 
 <div align="center">
 
-| ⚛️ React Advanced | 🌐 REST APIs | 🗄️ MongoDB | ⚙️ Node.js Backend | 🤖 AI Integration |
-|:---:|:---:|:---:|:---:|:---:|
-| ████████░░ | ███████░░░ | ██████░░░░ | ██████░░░░ | █████░░░░░ |
+![React](https://img.shields.io/badge/React_Advanced-7F77DD?style=for-the-badge&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-534AB7?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7F77DD?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-534AB7?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7F77DD?style=for-the-badge&logo=fastapi&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-534AB7?style=for-the-badge&logo=openai&logoColor=white)
+
+| Skill | Progress | Level |
+|:---|:---|:---:|
+| ⚛️ **React Advanced** — hooks, performance, patterns | `████████░░` | 80% |
+| 🐍 **Django** — Python web framework | `████░░░░░░` | 42% |
+| 🗄️ **MongoDB** — NoSQL & data modeling | `██████░░░░` | 60% |
+| ⚙️ **Node.js** — backend & server architecture | `███████░░░` | 70% |
+| 🌐 **REST APIs** — design & integration | `███████░░░` | 70% |
+| 🤖 **AI Integration** — APIs & tooling | `█████░░░░░` | 50% |
 
 </div>
 
