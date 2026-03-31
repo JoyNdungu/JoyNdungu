@@ -158,15 +158,13 @@ spend smart, save smarter 💰
 
 ## 📊 stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyNdungu&show_icons=true&hide_border=true&bg_color=1e0a33&title_color=D63384&icon_color=9B59B6&text_color=F9C6E0&include_all_commits=true&count_private=true&ring_color=D63384" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyNdungu&layout=compact&hide_border=true&bg_color=1e0a33&title_color=D63384&text_color=F9C6E0&langs_count=6" height="170"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyNdungu&hide_border=true&background=1e0a33&ring=D63384&fire=9B59B6&currStreakLabel=D63384&sideLabels=F9C6E0&dates=F9C6E0&stroke=D63384&currStreakNum=F9C6E0&sideNums=F9C6E0" />
 </div>
+
+
+>
 
 ---
 
@@ -189,5 +187,5 @@ spend smart, save smarter 💰
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=120&section=footer&text=Just+a+Girl+Finding+Purpose+In+Tech&fontSize=18&fontColor=fff&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=120&section=footer&text=Just+a+Girl+Finding+Purpose+In+Tech&fontSize=10&fontColor=fff&fontAlignY=65" />
 </div>
