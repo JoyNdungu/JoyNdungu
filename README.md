@@ -189,5 +189,5 @@ spend smart, save smarter 💰
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=120&section=footer&text=Just+a+Girl+Finding+Purpose+In Tech&fontSize=18&fontColor=fff&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=120&section=footer&text=Just+a+Girl+Finding+Purpose+In+Tech&fontSize=18&fontColor=fff&fontAlignY=65" />
 </div>
