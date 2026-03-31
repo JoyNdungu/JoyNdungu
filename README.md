@@ -1,12 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=210&section=header&text=Joy%20Ndungu&fontSize=68&fontColor=fff&animation=twinkling&fontAlignY=42&desc=full-stack+developer+·+Kenya+🇰🇪+·+she%2Fher&descSize=16&descAlignY=63&descColor=F9C6E0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=80&section=header" />
 </div>
+ 
+<div align="center">
+ 
+[![name](https://readme-typing-svg.demolab.com?font=Pacifico&size=55&duration=3000&pause=99999&color=D63384&center=true&vCenter=true&width=600&height=75&lines=Joy+Ndungu)](https://git.io/typing-svg)
+ 
+[![desc](https://readme-typing-svg.demolab.com?font=Comfortaa&size=15&duration=3000&pause=99999&color=F9C6E0&center=true&vCenter=true&width=600&height=25&lines=full-stack+developer+·+Graphic+Designer+·+Kenya+🇰🇪)](https://git.io/typing-svg)
 
+</div>
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=15&pause=1200&color=D63384&center=true&vCenter=true&width=540&lines=building+beautiful+UIs+%26+solid+backends+💜;mental+health+advocate+%7C+graphic+designer+🎨;hackathon+winner+🏆+%7C+open+to+collabs;code+with+purpose%2C+from+Kenya+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=15&pause=1200&color=D63384&center=true&vCenter=true&width=540&lines=building+beautiful+UIs+%26+solid+backends+💜;mental+health+advocate+%7C+graphic+designer+🎨;hackathon+winner+🏆+%7C+open+to+collabs;code+with+purpose%2C+from+Kenya+🌍)](https://git.io/typing-svg)
 
 </div>
 
