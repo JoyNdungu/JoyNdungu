@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Joy%20Ndungu%20✨&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=40&fontAlignX=50&desc=Full-Stack%20Developer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA%20%7C%20she%2Fher&descSize=17&descAlignY=62&descColor=FFD6F5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Joy%20Ndungu%20&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=40&fontAlignX=50&desc=Full-Stack%20Developer%20%7C%20Kenya%20%F0%9F%87%B0%F0%9F%87%AA%20%7C%20she%2Fher&descSize=17&descAlignY=62&descColor=FFD6F5" />
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=JoyNdungu&color=FF85C8&style=flat-square&label=✨+visitors)
+![Profile views](https://komarev.com/ghpvc/?username=JoyNdungu&color=FF85C8&style=flat-square&label=+visitors)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-hey hey! i'm **Joy** 💗 — a full-stack dev & BBIT student from 🇰🇪 Kenya who believes code can genuinely change lives.
+Helloo World!😂 i'm **Joy** 💗 — a full-stack dev & BBIT student from 🇰🇪 Kenya who believes code can genuinely change lives.
 
 i build things that are **beautiful on the outside** and **solid on the inside** — think: mental health apps, smart energy monitors, and color tools that just *get* you.
 
@@ -35,8 +35,8 @@ const joy = {
   role:       "Full-Stack Developer 💻",
   location:   "Kenya 🌍",
   learning:   ["React", "Django", "MongoDB", "Node.js", "AI 🤖"],
-  superpower: "identifying piano notes by ear 🎹",
-  vibe:       "build it beautiful, make it matter 💖"
+  Belief: "Mental Health Matters alot💆‍♀️",
+  vibe:       "build it beautiful, make it matter "
 }
 ```
 
@@ -62,7 +62,7 @@ const joy = {
 |:---:|:---|:---|
 | 🟢 `live` | **RangiCraft** | color theme generator for devs who love pretty palettes 🎨 |
 | 🔵 `building` | **MoyoCheck** | emotional wellness tracker for uni students 💙 |
-| 🟡 `learning` | **AI tooling** | levelling up with AI integration + advanced React ✨ |
+| 🟡 `learning` | **AI tooling** | levelling up with AI integration + advanced React  |
 
 </div>
 
@@ -76,7 +76,7 @@ const joy = {
 
 <td align="center" width="32%">
 
-![RangiCraft](https://img.shields.io/badge/✨_RangiCraft-FF85C8?style=for-the-badge&labelColor=2d0a1e)
+![RangiCraft](https://img.shields.io/badge/_RangiCraft-FF85C8?style=for-the-badge&labelColor=2d0a1e)
 
 **Color Theme Generator**
 
@@ -106,12 +106,12 @@ helps uni students track + reflect on their emotional wellbeing — because ment
 </td>
 
 <td align="center" width="32%">
-
-![Boresha](https://img.shields.io/badge/⚡_Boresha_Power-FFD6A5?style=for-the-badge&labelColor=1a0d00)
-
-**Smart Energy Monitor** 🏆
-
-detects power spikes & sends live SMS alerts — won at a national hackathon 🥇
+  
+![PesaTrack](https://img.shields.io/badge/💸_PesaTrack-C084FC?style=for-the-badge&labelColor=0d0a2e)
+ 
+**Personal Finance Tracker**
+ 
+track your spending, set budgets & take control of your money — built for real life 💰
 
 ![Node](https://img.shields.io/badge/Node.js-FFB3DE?style=flat-square&logo=nodedotjs&logoColor=2d0a1e)
 ![AT API](https://img.shields.io/badge/Africa's_Talking-D4A8FF?style=flat-square)
